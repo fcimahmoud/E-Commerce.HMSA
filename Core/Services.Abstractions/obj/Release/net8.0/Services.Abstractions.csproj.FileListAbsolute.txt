@@ -1,0 +1,15 @@
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\bin\Release\net8.0\Services.Abstractions.deps.json
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\bin\Release\net8.0\Services.Abstractions.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\bin\Release\net8.0\Services.Abstractions.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\bin\Release\net8.0\Shared.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\bin\Release\net8.0\Shared.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.csproj.AssemblyReference.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.AssemblyInfoInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.AssemblyInfo.cs
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.E74F1EB6.Up2Date
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\refint\Services.Abstractions.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\ref\Services.Abstractions.dll

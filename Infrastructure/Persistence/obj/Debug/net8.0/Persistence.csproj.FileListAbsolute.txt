@@ -1,0 +1,65 @@
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.Abstractions.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Shared.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.Abstractions.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Shared.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.Abstractions.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Shared.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.Abstractions.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Shared.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.Abstractions.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Shared.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Services.Abstractions.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Shared.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll

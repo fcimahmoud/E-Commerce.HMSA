@@ -1,0 +1,53 @@
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.deps.json
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abstractions.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Shared.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abstractions.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Shared.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.deps.json
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abstractions.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Shared.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abstractions.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Shared.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.deps.json
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abstractions.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Shared.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abstractions.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Shared.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll

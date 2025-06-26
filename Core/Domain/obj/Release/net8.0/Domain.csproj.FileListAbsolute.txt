@@ -1,0 +1,12 @@
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\bin\Release\net8.0\Domain.deps.json
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\bin\Release\net8.0\Domain.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\bin\Release\net8.0\Domain.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Release\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Release\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Release\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Release\net8.0\Domain.AssemblyInfo.cs
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Release\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Release\net8.0\Domain.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Release\net8.0\refint\Domain.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Release\net8.0\Domain.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Release\net8.0\ref\Domain.dll

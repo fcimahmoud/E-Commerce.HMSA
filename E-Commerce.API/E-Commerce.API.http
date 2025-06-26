@@ -1,0 +1,7 @@
+@url = https://localhost:5001/api/
+
+GET {{url}}weatherforecast/
+Accept: application/json
+
+### Get All Products
+Get {{url}}Product/

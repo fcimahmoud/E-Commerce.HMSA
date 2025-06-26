@@ -1,0 +1,59 @@
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Services.deps.json
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Services.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Services.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Domain.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Services.Abstractions.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Shared.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Domain.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Services.Abstractions.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Shared.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.sourcelink.json
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\ref\Services.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Services.deps.json
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Services.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Services.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Domain.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Services.Abstractions.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Shared.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Domain.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Services.Abstractions.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\bin\Debug\net8.0\Shared.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.sourcelink.json
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\refint\Services.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\Services.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Services\obj\Debug\net8.0\ref\Services.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\bin\Debug\net8.0\Services.deps.json
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\bin\Debug\net8.0\Services.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\bin\Debug\net8.0\Services.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\bin\Debug\net8.0\Domain.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\bin\Debug\net8.0\Services.Abstractions.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\bin\Debug\net8.0\Shared.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\bin\Debug\net8.0\Domain.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\bin\Debug\net8.0\Services.Abstractions.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\bin\Debug\net8.0\Shared.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\obj\Debug\net8.0\Services.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\obj\Debug\net8.0\Services.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Services\obj\Debug\net8.0\ref\Services.dll

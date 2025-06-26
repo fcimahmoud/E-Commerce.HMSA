@@ -1,0 +1,38 @@
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.pdb
+D:\ASP .NET CORE ROUTE\Route Assienment\ASP .NET Core Web Apis\E-Commerce\Core\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Enactus\Enactus Web\E-Commerce\Core\Domain\obj\Debug\net8.0\ref\Domain.dll

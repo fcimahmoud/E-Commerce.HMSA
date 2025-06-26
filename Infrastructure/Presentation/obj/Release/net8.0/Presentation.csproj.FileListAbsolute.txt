@@ -1,0 +1,17 @@
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Release\net8.0\Presentation.deps.json
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Release\net8.0\Presentation.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Release\net8.0\Presentation.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Release\net8.0\Services.Abstractions.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Release\net8.0\Shared.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Release\net8.0\Services.Abstractions.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\bin\Release\net8.0\Shared.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Release\net8.0\Presentation.csproj.AssemblyReference.cache
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Release\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Release\net8.0\Presentation.AssemblyInfoInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Release\net8.0\Presentation.AssemblyInfo.cs
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Release\net8.0\Presentation.csproj.CoreCompileInputs.cache
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Release\net8.0\Presenta.BC777DBE.Up2Date
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Release\net8.0\Presentation.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Release\net8.0\refint\Presentation.dll
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Release\net8.0\Presentation.pdb
+D:\Enactus\Enactus Web\E-Commerce\Infrastructure\Presentation\obj\Release\net8.0\ref\Presentation.dll
